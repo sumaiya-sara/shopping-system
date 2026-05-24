@@ -1,0 +1,40 @@
+101,Apple iPhone,999.99,10
+102,Dell Laptop,1200.50,5
+103,Sony Headphones,199.99,20
+104,Samsung Galaxy,899.99,15
+105,HP Laptop,1100.00,8
+106,Google Pixel,799.99,12
+107,Bose Speakers,299.99,10
+108,Amazon Echo,129.99,25
+109,Logitech Mouse,49.99,50
+110,Canon DSLR,750.00,7
+111,Apple Watch,399.99,18
+112,Kindle Paperwhite,129.99,30
+113,Nikon Camera,650.00,6
+114,Microsoft Surface,999.00,9
+115,Samsung TV,1499.99,4
+116,JBL Headphones,149.99,22
+117,GoPro Hero,399.99,11
+118,Xbox Series X,499.99,14
+119,PlayStation 5,499.99,10
+120,Apple AirPods,159.99,25
+121,Lenovo ThinkPad,1150.00,7
+122,HP Monitor,179.99,20
+123,Asus ROG Laptop,1350.00,5
+124,Samsung Monitor,199.99,18
+125,Canon Printer,249.99,10
+126,Epson Printer,229.99,12
+127,Fitbit Versa,199.99,15
+128,Samsung Galaxy Tab,649.99,8
+129,Apple iPad,799.99,10
+130,GoPro Hero 9,449.99,9
+131,Amazon Fire TV,89.99,30
+132,Nintendo Switch,299.99,16
+133,Sony PlayStation Controller,69.99,40
+134,Xbox Controller,59.99,35
+135,Apple Magic Keyboard,99.99,20
+136,Logitech Keyboard,49.99,25
+137,Samsung SSD 1TB,129.99,22
+138,WD External HDD 2TB,89.99,18
+139,Seagate HDD 1TB,59.99,25
+140,Razer Gaming Mouse,79.99,15
